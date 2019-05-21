@@ -1,0 +1,265 @@
+** Drc report for C:/Users/Banana/Dropbox (Personal)/Projects/Keyboard/PCB/K-Type.kicad_pcb **
+** Created on  **
+
+** Found 109 DRC errors **
+ErrType(49): Item on a disabled layer
+    @ (321.521 mm,85.634 mm): “Value 22uF of C4” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (317.055 mm,81.384 mm): “Value TS3DS10224 of U2” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (260.350 mm,111.238 mm): “Value DIODE of D62” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (369.888 mm,149.338 mm): “Value DIODE of D87” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (350.838 mm,149.338 mm): “Value DIODE of D86” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (331.788 mm,149.338 mm): “Value DIODE of D85” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (300.831 mm,149.338 mm): “Value DIODE of D84” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (277.019 mm,149.338 mm): “Value DIODE of D83” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (253.206 mm,149.338 mm): “Value DIODE of D82” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (229.394 mm,149.338 mm): “Value DIODE of D81” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (157.956 mm,149.338 mm): “Value DIODE of D80” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (86.519 mm,149.338 mm): “Value DIODE of D79” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (62.706 mm,149.338 mm): “Value DIODE of D78” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (38.894 mm,149.338 mm): “Value DIODE of D77” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (350.838 mm,130.288 mm): “Value DIODE of D76” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (286.512 mm,130.351 mm): “Value DIODE of D75” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (250.825 mm,130.288 mm): “Value DIODE of D74” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (231.775 mm,130.288 mm): “Value DIODE of D73” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (212.725 mm,130.288 mm): “Value DIODE of D72” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (193.675 mm,130.288 mm): “Value DIODE of D71” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (174.625 mm,130.288 mm): “Value DIODE of D70” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (155.575 mm,130.288 mm): “Value DIODE of D69” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (136.525 mm,130.288 mm): “Value DIODE of D68” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (117.475 mm,130.288 mm): “Value DIODE of D67” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (98.425 mm,130.288 mm): “Value DIODE of D66” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (79.375 mm,130.288 mm): “Value DIODE of D65” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (48.387 mm,130.351 mm): “Value DIODE of D64” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (291.305 mm,111.238 mm): “Value DIODE of D63” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (241.300 mm,111.238 mm): “Value DIODE of D61” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (222.250 mm,111.238 mm): “Value DIODE of D60” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (203.200 mm,111.238 mm): “Value DIODE of D59” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (184.150 mm,111.238 mm): “Value DIODE of D58” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (165.100 mm,111.238 mm): “Value DIODE of D57” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (146.050 mm,111.238 mm): “Value DIODE of D56” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (127.000 mm,111.238 mm): “Value DIODE of D55” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (107.950 mm,111.238 mm): “Value DIODE of D54” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (88.900 mm,111.238 mm): “Value DIODE of D53” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (69.850 mm,111.238 mm): “Value DIODE of D52” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (43.656 mm,111.238 mm): “Value DIODE of D51” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (369.888 mm,92.188 mm): “Value DIODE of D50” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (350.838 mm,92.188 mm): “Value DIODE of D49” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (331.788 mm,92.188 mm): “Value DIODE of D48” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (298.450 mm,92.188 mm): “Value DIODE of D47” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (274.638 mm,92.188 mm): “Value DIODE of D46” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (255.588 mm,92.188 mm): “Value DIODE of D45” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (236.538 mm,92.188 mm): “Value DIODE of D44” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (217.488 mm,92.188 mm): “Value DIODE of D43” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (198.438 mm,92.188 mm): “Value DIODE of D42” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (179.388 mm,92.188 mm): “Value DIODE of D41” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (160.338 mm,92.188 mm): “Value DIODE of D40” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (141.288 mm,92.188 mm): “Value DIODE of D39” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (122.238 mm,92.188 mm): “Value DIODE of D38” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (103.188 mm,92.188 mm): “Value DIODE of D37” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (84.138 mm,92.188 mm): “Value DIODE of D36” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (65.088 mm,92.188 mm): “Value DIODE of D35” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (41.275 mm,92.188 mm): “Value DIODE of D34” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (369.888 mm,73.138 mm): “Value DIODE of D33” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (350.838 mm,73.138 mm): “Value DIODE of D32” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (331.788 mm,73.138 mm): “Value DIODE of D31” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (293.751 mm,73.074 mm): “Value DIODE of D30” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (265.112 mm,73.138 mm): “Value DIODE of D29” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (246.062 mm,73.138 mm): “Value DIODE of D28” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (227.012 mm,73.138 mm): “Value DIODE of D27” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (207.962 mm,73.138 mm): “Value DIODE of D26” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (188.912 mm,73.138 mm): “Value DIODE of D25” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (169.862 mm,73.138 mm): “Value DIODE of D24” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (150.812 mm,73.138 mm): “Value DIODE of D23” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (131.762 mm,73.138 mm): “Value DIODE of D22” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (112.712 mm,73.138 mm): “Value DIODE of D21” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (93.662 mm,73.138 mm): “Value DIODE of D20” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (74.612 mm,73.138 mm): “Value DIODE of D19” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (55.562 mm,73.138 mm): “Value DIODE of D18” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (36.386 mm,73.138 mm): “Value DIODE of D17” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (369.888 mm,44.562 mm): “Value DIODE of D16” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (350.838 mm,44.562 mm): “Value DIODE of D15” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (331.788 mm,44.562 mm): “Value DIODE of D14” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (303.212 mm,44.562 mm): “Value DIODE of D13” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (284.162 mm,44.562 mm): “Value DIODE of D12” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (265.112 mm,44.562 mm): “Value DIODE of D11” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (246.062 mm,44.562 mm): “Value DIODE of D10” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (217.488 mm,44.562 mm): “Value DIODE of D9” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (198.438 mm,44.562 mm): “Value DIODE of D8” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (179.388 mm,44.562 mm): “Value DIODE of D7” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (160.338 mm,44.562 mm): “Value DIODE of D6” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (131.762 mm,44.562 mm): “Value DIODE of D5” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (112.712 mm,44.562 mm): “Value DIODE of D4” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (93.662 mm,44.562 mm): “Value DIODE of D3” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (74.612 mm,44.562 mm): “Value DIODE of D2” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (36.513 mm,44.562 mm): “Value DIODE of D1” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (326.326 mm,66.453 mm): “Value TS3USB30E of U3” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (50.800 mm,26.658 mm): “Value USBC of J1” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (365.125 mm,26.658 mm): “Value USBC of J2” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (34.925 mm,146.562 mm): “Value >VALUE of FID5” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (34.925 mm,146.562 mm): “Value >VALUE of FID6” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (37.025 mm,56.959 mm): “Value >VALUE of FID2” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (380.619 mm,124.651 mm): “Value FLASH_HDR of P1” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (37.025 mm,56.959 mm): “Value >VALUE of FID1” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (378.900 mm,56.959 mm): “Value >VALUE of FID3” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (378.900 mm,56.959 mm): “Value >VALUE of FID4” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (38.062 mm,113.477 mm): “Value 1PIN of MH5” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (102.502 mm,149.577 mm): “Value 1PIN of MH7” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (269.672 mm,149.577 mm): “Value 1PIN of MH8” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (236.332 mm,46.806 mm): “Value 1PIN of MH2” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (150.602 mm,46.806 mm): “Value 1PIN of MH1” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (41.072 mm,61.087 mm): “Value 1PIN of MH3” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (378.892 mm,140.139 mm): “Value 1PIN of MH6” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (374.447 mm,61.087 mm): “Value 1PIN of MH4” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (255.385 mm,104.585 mm): “Value 1PAD of TH2” is on a disabled layer
+ErrType(49): Item on a disabled layer
+    @ (141.085 mm,104.585 mm): “Value 1PAD of TH1” is on a disabled layer
+
+** Found 13 unconnected pads **
+ErrType(2): Unconnected items
+    @ (370.925 mm,30.058 mm): Track 0.762 mm, net [/mcu/SHLD] (92) on layer Front, length: 0.500 mm
+    @ (369.925 mm,33.733 mm): Pad 25 on Front, Back, Internal, Non-copper of J2
+ErrType(2): Unconnected items
+    @ (55.600 mm,33.733 mm): Pad 25 on Front, Back, Internal, Non-copper of J1
+    @ (56.600 mm,29.408 mm): Pad 25 on Front, Back, Internal, Non-copper of J1
+ErrType(2): Unconnected items
+    @ (46.000 mm,33.783 mm): Pad 25 on Front, Back, Internal, Non-copper of J1
+    @ (45.000 mm,29.408 mm): Pad 25 on Front, Back, Internal, Non-copper of J1
+ErrType(2): Unconnected items
+    @ (359.325 mm,29.408 mm): Pad 25 on Front, Back, Internal, Non-copper of J2
+    @ (360.325 mm,33.783 mm): Pad 25 on Front, Back, Internal, Non-copper of J2
+ErrType(2): Unconnected items
+    @ (46.000 mm,33.783 mm): Pad 25 on Front, Back, Internal, Non-copper of J1
+    @ (55.600 mm,33.733 mm): Pad 25 on Front, Back, Internal, Non-copper of J1
+ErrType(2): Unconnected items
+    @ (360.325 mm,33.783 mm): Pad 25 on Front, Back, Internal, Non-copper of J2
+    @ (369.925 mm,33.733 mm): Pad 25 on Front, Back, Internal, Non-copper of J2
+ErrType(2): Unconnected items
+    @ (38.265 mm,109.540 mm): Pad 1 on Front, Back, Internal, Non-copper of MH5
+    @ (41.275 mm,57.150 mm): Pad 1 on Front, Back, Internal, Non-copper of MH3
+ErrType(2): Unconnected items
+    @ (102.705 mm,145.640 mm): Pad 1 on Front, Back, Internal, Non-copper of MH7
+    @ (38.265 mm,109.540 mm): Pad 1 on Front, Back, Internal, Non-copper of MH5
+ErrType(2): Unconnected items
+    @ (379.095 mm,136.202 mm): Pad 1 on Front, Back, Internal, Non-copper of MH6
+    @ (374.650 mm,57.150 mm): Pad 1 on Front, Back, Internal, Non-copper of MH4
+ErrType(2): Unconnected items
+    @ (236.535 mm,42.870 mm): Pad 1 on Front, Back, Internal, Non-copper of MH2
+    @ (150.805 mm,42.870 mm): Pad 1 on Front, Back, Internal, Non-copper of MH1
+ErrType(2): Unconnected items
+    @ (150.805 mm,42.870 mm): Pad 1 on Front, Back, Internal, Non-copper of MH1
+    @ (56.600 mm,29.408 mm): Pad 25 on Front, Back, Internal, Non-copper of J1
+ErrType(2): Unconnected items
+    @ (269.875 mm,145.640 mm): Pad 1 on Front, Back, Internal, Non-copper of MH8
+    @ (236.535 mm,42.870 mm): Pad 1 on Front, Back, Internal, Non-copper of MH2
+ErrType(2): Unconnected items
+    @ (379.095 mm,136.202 mm): Pad 1 on Front, Back, Internal, Non-copper of MH6
+    @ (269.875 mm,145.640 mm): Pad 1 on Front, Back, Internal, Non-copper of MH8
+
+** End of Report **
