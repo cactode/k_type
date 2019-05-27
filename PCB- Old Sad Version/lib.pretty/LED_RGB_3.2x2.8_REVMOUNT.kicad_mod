@@ -1,4 +1,4 @@
-(module LED_RGB_3.2x2.8_REVMOUNT (layer F.Cu) (tedit 5CEB8762)
+(module LED_RGB_3.2x2.8_REVMOUNT (layer F.Cu) (tedit 5CE368B5)
   (attr smd)
   (fp_text reference >NAME (at 0 -2.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
